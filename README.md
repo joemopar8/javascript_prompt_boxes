@@ -1,1 +1,1 @@
-# javascript_prompt_boxes
+# JavaScript Prompt Boxes Tutorial
